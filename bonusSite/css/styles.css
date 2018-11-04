@@ -1,0 +1,140 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+  font-size: 18px;
+}
+
+body{
+  background: #e4e9f4;
+}
+
+a {
+  text-decoration: none;
+}
+
+p{
+  text-align: center;
+  margin: 5px 0;
+}
+
+input, button{
+  padding: 8px;
+  outline: none;
+  border-radius: 3px;
+}
+
+input{
+  background: #f9f9f9;
+  border: 1px solid #d3d3d3;
+  width: 285px;
+
+}
+
+button{
+  background: #7187c7;
+  color: fff;
+  border-radius: 3px;
+  border: 0;
+  width: 302px;
+}
+
+h1{
+  /* margin-left: 110px; */
+  text-align: center;
+  width: 302px;
+  color: #9ca9cb;
+  font-weight: normal;
+  font-size: 27px;
+  border-bottom: 1px solid #7186c7;
+  padding-bottom: 10px;
+}
+
+table {
+  margin: 20px 0;
+  width: 100%;
+  border-spacing: 0px;
+}
+
+th, td {
+  padding: 15px;
+  text-align: center;
+}
+
+th {
+  background-color: #f44;
+  color: #FFF;
+}
+
+html, body, .wrapper{
+  height: auto;
+}
+
+.rows{
+  margin: 15px 0;
+  text-align: center;
+}
+
+.wrapper{
+  width: 1200px;
+  display: flex;
+  margin: 0 auto;
+}
+.form{
+  width: 302px;
+}
+
+.slide, .content{
+  flex: 1;
+}
+
+.g-recaptcha{
+  /* margin: 0 110px; */
+}
+
+.slide{
+max-width: 300px;
+}
+
+.content{
+  padding: 20px;
+  background: #fff;
+  margin: 20px;
+  border-radius: 3px;
+}
+
+.slide div {
+  background: #fff;
+  margin: 20px;
+  height: 260px;
+  border-radius: 3px;
+}
+
+.slide img {
+  margin: 10px;
+  width: 240px;
+  height: 240px;
+}
+
+.menu a {
+  color: #4F3e2a;
+  padding: 20px;
+}
+
+.menu {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.loto{
+  width: 60px;
+  height: 60px;
+}
+
+.center{
+  display: flex;
+  margin: 0 auto;
+}
+
+#sum{
+  margin: 5px 0;
+}
